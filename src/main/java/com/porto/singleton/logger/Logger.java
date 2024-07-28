@@ -1,4 +1,4 @@
-package com.porto.singleton;
+package com.porto.singleton.logger;
 
 public class Logger {
     private Logger instance;

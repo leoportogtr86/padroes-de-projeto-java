@@ -1,4 +1,4 @@
-package com.porto.singleton;
+package com.porto.singleton.config;
 
 import java.util.Properties;
 
