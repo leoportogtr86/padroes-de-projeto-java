@@ -1,4 +1,4 @@
-package com.porto.factoryMethod;
+package com.porto.factoryMethod.document;
 
 public abstract class DocumentCreator {
     public abstract Document createDocument();

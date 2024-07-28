@@ -1,4 +1,4 @@
-package com.porto.factoryMethod;
+package com.porto.factoryMethod.document;
 
 public class Main {
     public static void main(String[] args) {
